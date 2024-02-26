@@ -157,6 +157,19 @@
   orcid: 0000-0001-9409-8245
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.18260/1-2--38225
+  title: WySLICE - Integrating Computer Science throughout Existing K-12 Core Disciplinary
+    Areas
+  authors:
+  - Mike Borowczak
+  - Andrea Borowczak
+  - Mason Johnson
+  publisher: 2021 ASEE Virtual Annual Conference Content Access Proceedings
+  date: ''
+  link: https://doi.org/gtjtkd
+  orcid: 0000-0001-9409-8245
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.3390/educsci11010021
   title: "Integrated STEM for Teacher Professional Learning and Development: \u201C\
     I Need Time for Practice\u201D"
